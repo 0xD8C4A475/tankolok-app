@@ -6,7 +6,7 @@
 ![screenshot](http://i.imgur.com/tsaKuLE.jpg)
 
 ## Details
-- 5km-en belül a 3 legolcsóbb felsorolva, a harmadikkal kezdve, majd második, végül az első helyezett (legolcsóbb).
+- 5 km-en belül a 3 legolcsóbb felsorolva, a harmadikkal kezdve, majd második, végül az első helyezett (legolcsóbb).
 
 		- Kúton a benzin ára
 		- Kút "márka" neve (pl: OMV, Magán, Shell, ..)
