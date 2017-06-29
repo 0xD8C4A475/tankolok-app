@@ -1,4 +1,4 @@
-# Tankolok -  Android Widget
+# tankolok-app -  Android Widget
 
 - Szeretnénk tankolni. Hol a legolcsóbb a benzin környéken?
 
