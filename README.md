@@ -1,23 +1,23 @@
 Tankolok -  Android Widget
 
-- Szeretnénk tankolni. Hol a legolcsóbb a benzin környéken?
+- SzeretnÃ©nk tankolni. Hol a legolcsÃ³bb a benzin kÃ¶rnyÃ©ken?
 
-- 5km-en belül a 3 legolcsóbb felsorolva, a harmadikkal kezdve, majd második, végül az elsõ helyezett (legolcsóbb).
-
-
-			- Kúton a benzin árát
-			- Kút "márka" neve (pl: OMV, Magán, Shell, ..)
-			- Kút távolsága és annak pontossága.
-			- Kút pontos címe. (Város, kerület, utca, házszám).
-		- Lehet egy gombbal frissíteni az adatokat. 
-		- A "frissítés" gomb ad visszajelzést, ha megnyomódott.
-		- Az adatok frissítésének idejét is ki írja, másodperc pontosan.
+- 5km-en belÃ¼l a 3 legolcsÃ³bb felsorolva, a harmadikkal kezdve, majd mÃ¡sodik, vÃ©gÃ¼l az elsÅ‘ helyezett (legolcsÃ³bb).
+```
+			- KÃºton a benzin Ã¡ra
+			- KÃºt "mÃ¡rka" neve (pl: OMV, MagÃ¡n, Shell, ..)
+			- KÃºt tÃ¡volsÃ¡ga Ã©s annak pontossÃ¡ga.
+			- KÃºt pontos cÃ­me. (VÃ¡ros, kerÃ¼let, utca, hÃ¡zszÃ¡m).
+```
+		- Lehet egy gombbal frissÃ­teni az adatokat. 
+		- A "frissÃ­tÃ©s" gomb ad visszajelzÃ©st, ha megnyomÃ³dott.
+		- Az adatok frissÃ­tÃ©sÃ©nek idejÃ©t is ki Ã­rja, mÃ¡sodperc pontosan.
 		
-		Technikai igény leírása:
+		Technikai igÃ©ny leÃ­rÃ¡sa:
 
-		- Az alkalmazás ne fogyasszon sok erõforrást. Kalasnyikov elv
-		- Férjen el, egy átlagos, kisebb felbontású telefon kezdõképernyõjén, lehetõleg annak 1/4-ed részét elfoglalva.
+		- Az alkalmazÃ¡s ne fogyasszon sok erÅ‘forrÃ¡st. Kalasnyikov elv
+		- FÃ©rjen el, egy Ã¡tlagos, kisebb felbontÃ¡sÃº telefon kezdÅ‘kÃ©pernyÅ‘jÃ©n, lehetÅ‘leg annak 1/4-ed rÃ©szÃ©t elfoglalva.
 		
-Rapcsák Dénes
-Istenes Imre 
-MIT licence
+RapcsÃ¡k DÃ©nes
+Istenes Imre
+[MIT license](https://tldrlegal.com/license/mit-license).
