@@ -13,6 +13,8 @@ Tankolok -  Android Widget
 		- Lehet egy gombbal frissíteni az adatokat. 
 		- A "frissítés" gomb ad visszajelzést, ha megnyomódott.
 		- Az adatok frissítésének idejét is ki írja, másodperc pontosan.
+
+![screenshot](http://imgur.com/6P3mf4o)
 		
  - Technikai igény leírása:
 
