@@ -2,7 +2,7 @@ Tankolok -  Android Widget
 
 - Szeretnénk tankolni. Hol a legolcsóbb a benzin környéken?
 
-![screenshot](http://imgur.com/a/yU2k3)
+![screenshot](http://i.imgur.com/tsaKuLE.jpg)
 
 - 5km-en belül a 3 legolcsóbb felsorolva, a harmadikkal kezdve, majd második, végül az első helyezett (legolcsóbb).
 			- Kúton a benzin ára
@@ -14,7 +14,7 @@ Tankolok -  Android Widget
 		- A "frissítés" gomb ad visszajelzést, ha megnyomódott.
 		- Az adatok frissítésének idejét is ki írja, másodperc pontosan.
 
-![screenshot](http://imgur.com/6P3mf4o)
+![screenshot](http://i.imgur.com/6P3mf4o.png)
 		
  - Technikai igény leírása:
 
